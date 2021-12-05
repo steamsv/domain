@@ -1,77 +1,77 @@
-2miners.com
-51szzc.com
-666pool.cn
-91pool.com
-atticpool.com
-anomp.com
-aapool.cn
-antpool.com
-ash-shanghai.globalpool.cc
-asia.zcoin.miningpoolhub.com
-blackpool.pro
-blockmasters.co
-btchd.org
-bitminter.com
-bitcoin.com
-bhdpool.cn
-bginpool.com
-baimin.com
-bi-chi.com
-bohemianpool.com
-bixin.com
-bwpool.net
-btcguild.com
-batpool.com
-bw.com
-btcc.com
-btc.top
-btc.com
-bitfury.com
-bitclubnetwork.com
-beepool.org
-coinhive.com
-chainpool.io
-connectbtc.com
-cybtc.info
-canoepool.com
-cryptograben.com
-cryptonotepool.org.uk
-coinotron.com
-dashcoinpool.org
-dxpool.com
-dwarfpool.com
-dpool.top
-dpool.com
-dmpools.com
-everstake.one
-epool.io
-ethpool.org
-ethfans.org
-easy2mine.com
-ethermine.org
-extremepool.org
-firepool.com
-fir.im
-fkpool.cn
-flypool.org
-f3pool.com
-gridcash.net
-gath3r.io
-grin-pool.org
-grinmint.com
-c3pool.com
-gbminers.com
-get.bi-chi.com
-globalpool.cc
-give-me-ltc.com
-honeyminer.com
-honestmining.com
-hashquark.io
-hashrabbit.co
-hummerpool.com
-hdpool.com
-h-pool.com
-hashvault.pro
-hpool.com
-huobipool.com
-haopool.com
+127.0.0.1 2miners.com
+127.0.0.1 51szzc.com
+127.0.0.1 666pool.cn
+127.0.0.1 91pool.com
+127.0.0.1 atticpool.com
+127.0.0.1 anomp.com
+127.0.0.1 aapool.cn
+127.0.0.1 antpool.com
+127.0.0.1 ash-shanghai.globalpool.cc
+127.0.0.1 asia.zcoin.miningpoolhub.com
+127.0.0.1 blackpool.pro
+127.0.0.1 blockmasters.co
+127.0.0.1 btchd.org
+127.0.0.1 bitminter.com
+127.0.0.1 bitcoin.com
+127.0.0.1 bhdpool.cn
+127.0.0.1 bginpool.com
+127.0.0.1 baimin.com
+127.0.0.1 bi-chi.com
+127.0.0.1 bohemianpool.com
+127.0.0.1 bixin.com
+127.0.0.1 bwpool.net
+127.0.0.1 btcguild.com
+127.0.0.1 batpool.com
+127.0.0.1 bw.com
+127.0.0.1 btcc.com
+127.0.0.1 btc.top
+127.0.0.1 btc.com
+127.0.0.1 bitfury.com
+127.0.0.1 bitclubnetwork.com
+127.0.0.1 beepool.org
+127.0.0.1 coinhive.com
+127.0.0.1 chainpool.io
+127.0.0.1 connectbtc.com
+127.0.0.1 cybtc.info
+127.0.0.1 canoepool.com
+127.0.0.1 cryptograben.com
+127.0.0.1 cryptonotepool.org.uk
+127.0.0.1 coinotron.com
+127.0.0.1 dashcoinpool.org
+127.0.0.1 dxpool.com
+127.0.0.1 dwarfpool.com
+127.0.0.1 dpool.top
+127.0.0.1 dpool.com
+127.0.0.1 dmpools.com
+127.0.0.1 everstake.one
+127.0.0.1 epool.io
+127.0.0.1 ethpool.org
+127.0.0.1 ethfans.org
+127.0.0.1 easy2mine.com
+127.0.0.1 ethermine.org
+127.0.0.1 extremepool.org
+127.0.0.1 firepool.com
+127.0.0.1 fir.im
+127.0.0.1 fkpool.cn
+127.0.0.1 flypool.org
+127.0.0.1 f3pool.com
+127.0.0.1 gridcash.net
+127.0.0.1 gath3r.io
+127.0.0.1 grin-pool.org
+127.0.0.1 grinmint.com
+127.0.0.1 c3pool.com
+127.0.0.1 gbminers.com
+127.0.0.1 get.bi-chi.com
+127.0.0.1 globalpool.cc
+127.0.0.1 give-me-ltc.com
+127.0.0.1 honeyminer.com
+127.0.0.1 honestmining.com
+127.0.0.1 hashquark.io
+127.0.0.1 hashrabbit.co
+127.0.0.1 hummerpool.com
+127.0.0.1 hdpool.com
+127.0.0.1 h-pool.com
+127.0.0.1 hashvault.pro
+127.0.0.1 hpool.com
+127.0.0.1 huobipool.com
+127.0.0.1 haopool.com
